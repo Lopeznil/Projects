@@ -3,9 +3,9 @@
 
 ---
 
-## 📁 Dataset Description
+## 📁 Description
 
-> This dataset was created for a comprehensive analysis of gaming platforms, user behavior, and pricing trends. It brings together real-world data from **Steam**, **PlayStation**, and **Xbox**, allowing researchers, analysts, and developers to explore **player activity**, **game popularity**, and **price dynamics**. The dataset enables insights into **game market trends** across platforms.
+> The rapid growth of the gaming industry, fueled by increasing digital adoption and platform convergence, has created a highly dynamic and competitive market. This project investigates how player behavior, pricing strategies, and platform-specific trends shape the success of games across Steam, PlayStation, and Xbox. By analyzing engagement metrics, game popularity, and price fluctuations, the project uncovers patterns that differentiate platforms and genres, as well as the impact of cross-platform availability on user activity. The goal is to provide game developers, publishers, and industry strategists with data-driven insights to optimize release strategies, pricing models, and audience targeting in an evolving market landscape.
 
 ---
 
