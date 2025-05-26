@@ -63,10 +63,8 @@
 ## 🛠️ Technologies Used
 
 - **Python**: pandas, matplotlib, seaborn, scikit-learn
-- **SQL** (if applicable)
-- **Jupyter Notebooks** or **Streamlit** for dashboarding
-- **Power BI / Tableau** (optional for visualization)
-- **Git** for version control
+- **SQL** (when necessary)
+- **Power BI / Tableau** (For visualization)
 
 ---
 
