@@ -41,7 +41,7 @@
    - Effect of multi-platform availability  
    - Popularity trajectory post-release
 
-5. **Time-Series Analysis**
+5. **Time Analysis**
    - Seasonal trends in game engagement or discounts  
    - Release timing and its market impact
 
