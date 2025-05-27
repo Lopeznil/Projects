@@ -41,11 +41,7 @@
    - Effect of multi-platform availability  
    - Popularity trajectory post-release
 
-5. **Time Analysis**
-   - Seasonal trends in game engagement or discounts  
-   - Release timing and its market impact
-
-6. **Clustering / Segmentation** (if applied)
+5. **Clustering / Segmentation** (if applied)
    - Grouping games by popularity/price/genre  
    - Identifying market niches
 
@@ -53,10 +49,7 @@
 
 ## 🧠 Key Insights
 
-- Steam has the **widest price variation**, often driven by regular discounts.
-- PlayStation games show **stronger brand loyalty**, with higher average user ratings.
-- Games released across multiple platforms tend to have **higher engagement**.
-- Certain genres (e.g., action or RPG) consistently **lead in popularity**.
+- 
 
 ---
 
