@@ -1,7 +1,5 @@
 ### Project Goals
 
-This project explores the impact of supply chain disruptions on delivery performance and inventory levels across certain industries. 
+This project explores the key drivers of order profitability and late delivery risk in an e-commerce business. Using detailed order-level data, we analyze how variables such as product category, shipping mode, and quantity affect profit margins. We also build a predictive model to classify orders at risk of late delivery, leveraging features like scheduled shipment days, shipping method, and regional attributes.
 
-The coronavirus presented unique challenges to supply chains worldwide. As cities and states rise to meet challenges its important to know where critical items are produced and to try and understand the impact of these closures on a supply chain. This can be especially important at the moment with regards to manufacturing capabilities related to medical devices and pharmaceuticals. 
-
-The goal of this project to is create a Scenario Planning Dashboard (Simulate what-if scenarios (e.g., "impact of closures") and visualize their financial/supply chain impact.).
+The goal is to uncover high-margin segments, flag unprofitable patterns, and provide a data-driven foundation for improving operational efficiency. The findings support smarter product pricing, better carrier selection, and proactive delivery risk mitigation.
