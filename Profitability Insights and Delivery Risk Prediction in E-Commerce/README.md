@@ -20,3 +20,22 @@ The dataset contains detailed records of transactions and supply chain operation
 It includes 52 structured fields such as product category, customer location, shipping dates, delivery status, order profit, and pricing. Key variables like "Late delivery risk", "Benefit per order", and "Shipping mode" support analysis of operational performance and customer behavior.
 
 This structured dataset was analyzed to understand inefficiencies across provisioning, production, and distribution processes, enabling insights into delivery delays, profit margins, and customer segmentation. It is particularly suited for advanced analytics and machine learning models to optimize supply chain operations and forecast demand patterns.
+
+## Analysis and Insights
+
+### Key drivers of profitability
+
+- Sales vs Profits
+    - As expected, on average, a higher sales volume generates more profit. Products related to fishing generated $6.9M worth of sales, accounting for nearly 20% of all sales, with a profit of $0.7M.
+    - Although products related to fishing has the highest sales, its average profit margin is only 10.91%, indicating potential margin leakage. In contrast, products related to Golf have a significantly smaller sales volume but delivers a margin of 17.46%.
+  
+
+- Shipping Modes vs Profits
+    - Majority of orders were placed through standard class shipping compared to other modes, hence generating a larger profit.
+      However, looking at profit margins paint a different story.
+    - First class shipping achieves a profit margin larger than 11%, whereas, other modes only average 10.5%.
+
+
+- Order Quantity vs Profits
+    - As expected, on average, higher order quantities generate more profit. The scatterplot seemingly shows a linear relationship between the two variables, in most categories.
+    - Profit margins are seemingly unaffected by order quantities, in some cases having a negative impact on profit margin.
