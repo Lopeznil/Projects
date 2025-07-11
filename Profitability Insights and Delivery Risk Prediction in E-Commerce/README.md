@@ -39,3 +39,8 @@ This structured dataset was analyzed to understand inefficiencies across provisi
 - Order Quantity vs Profits
     - As expected, on average, higher order quantities generate more profit. The scatterplot seemingly shows a linear relationship between the two variables, in most categories.
     - Profit margins are seemingly unaffected by order quantities, in some cases having a negative impact on profit margin.
+
+### Late delivery risks
+
+- Shipping Modes
+    - The late delivery rate across all orders is 55%. The shipping mode most associated with late delivery is first class.
