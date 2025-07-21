@@ -31,7 +31,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - As expected, on average, a higher sales volume generates more profit. Products related to fishing generated $6.9M worth of sales, accounting for nearly 20% of all sales, with a profit of $0.7M.
     - Although products related to fishing has the highest sales, its average profit margin is only 10.91%, indicating potential margin leakage. In contrast, products related to Golf have a significantly smaller sales volume but delivers a margin of 17.46%.
 
-  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Sales_Profit.png "Sales vs Profits organized by category")
+  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Sales_Profits.png "Sales vs Profits organized by category")
   ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Sales_Profit_margins.png "Sales vs Profit Margins organized by category")
 
 - Shipping Modes vs Profits
