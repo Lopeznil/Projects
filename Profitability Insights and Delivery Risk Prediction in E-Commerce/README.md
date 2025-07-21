@@ -44,8 +44,9 @@ This structured dataset was analyzed to understand inefficiencies across provisi
 </p>
 
 <p align="center">
-  <img src="Data%20Visualizations/Shipping%20Mode%20Profit.png" alt="Profits by Shipping Modes" width="300", height = "150",style="display inline-block;"/>
-  <img src="Data%20Visualizations/Shipping%20Mode%20Profit%20Margin.png" alt="Profits Margins by Shipping Modes" width="300", height = "150", style="display inline-block;"/>
+  <img src="Data%20Visualizations/Shipping%20Modes.png" alt="Count of orders by Shipping Modes" width="400", height = "300",style="display inline-block;">
+  <img src="Data%20Visualizations/Shipping%20Mode%20Profit.png" alt="Profits by Shipping Modes" width="400", height = "300",style="display inline-block;"/>
+  <img src="Data%20Visualizations/Shipping%20Mode%20Profit%20Margin.png" alt="Profits Margins by Shipping Modes" width="400", height = "300", style="display inline-block;"/>
 </p>
 
 - Order Quantity vs Profits
