@@ -42,9 +42,11 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   <p align="center">
   <img src="Data%20Visualizations/Shipping%20Modes.png" alt="Count of orders by Shipping Modes" width="700"/>
 </p>
-  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Modes.png "Count of orders by Shipping Modes")
-  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Mode%20Profit.png "Profits by Shipping Modes")
-  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Mode%20Profit%20Margin.png "Profits Margins by Shipping Modes")
+
+<p align="center">
+  <img src="Data%20Visualizations/Shipping%20Mode%20Profit.png" alt="Profits by Shipping Modes" width="300", height = "150",style="display inline-block;"/>
+  <img src="Data%20Visualizations/Shipping%20Mode%20Profit%20Margin.png" alt="Profits Margins by Shipping Modes" width="300", height = "150", style="display inline-block;"/>
+</p>
 
 - Order Quantity vs Profits
     - As expected, on average, higher order quantities generate more profit. The scatterplot seemingly shows a linear relationship between the two variables, in most categories.
