@@ -32,7 +32,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - Although products related to fishing has the highest sales, its average profit margin is only 10.91%, indicating potential margin leakage. In contrast, products related to Golf have a significantly smaller sales volume but delivers a margin of 17.46%.
 
 <p align="center">
-  <img src="/Data%20Visualizations/Sales_Profits.png" alt="Sales vs Profits organized by category" width="400", height = "300",style="display inline-block;">
+  <img src="/Data%20Visualizations/Sales_Profits.png" alt="Sales vs Profits organized by category" width="500", height = "300",style="display inline-block;">
   <img src="Data%20Visualizations/Sales_Profit_margins.png" alt="Sales vs Profit Margins organized by category" width="400", height = "300",style="display inline-block;"/>
 </p>
 
