@@ -23,6 +23,8 @@ This structured dataset was analyzed to understand inefficiencies across provisi
 
 ## Analysis and Insights
 
+  ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Sales_Overview.png "Sales Overview")
+
 ### Key drivers of profitability
 
 - Sales vs Profits
