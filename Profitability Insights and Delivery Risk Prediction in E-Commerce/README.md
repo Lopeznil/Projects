@@ -38,6 +38,10 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - Majority of orders were placed through standard class shipping compared to other modes, hence generating a larger profit.
       However, looking at profit margins paint a different story.
     - First class shipping achieves a profit margin larger than 11%, whereas, other modes only average 10.5%.
+
+  <p align="center">
+  <img src="Data%20Visualizations/Shipping%20Modes.png" alt="Count of orders by Shipping Modes" width="700"/>
+</p>
   ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Modes.png "Count of orders by Shipping Modes")
   ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Mode%20Profit.png "Profits by Shipping Modes")
   ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Shipping%20Mode%20Profit%20Margin.png "Profits Margins by Shipping Modes")
