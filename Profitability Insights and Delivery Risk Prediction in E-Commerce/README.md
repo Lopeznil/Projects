@@ -69,7 +69,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - Orders scheduled for more than 1 days are 3x less likely to be late.
 
   <p align="center">
-  <img src="Data Visualizations/Late Delivery Risk by shipping mode.png" alt="Late Delivery Risk by shipping mode" width="400", height = "300",style="display inline-block;">
+  <img src="Data Visualizations/Late Delivery Risk by shipping modes.png" alt="Late Delivery Risk by shipping mode" width="400", height = "300",style="display inline-block;">
   <img src="Data Visualizations/Delivery risk by scheduled shipment days.png" alt="Late Delivery Risk by scheduled shipping time" width="400", height = "300",style="display inline-block;">
   </p>
   
