@@ -66,3 +66,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
 
 - Shipping Modes
     - The late delivery rate across all orders is 55%. The shipping mode most associated with late delivery is first class.
+
+  <p align="center">
+  <img src="Data Visualizations/Late Delivery Risk by shipping mode.png" alt="Late Delivery Risk by shipping mode" width="700", height = "525",style="display inline-block;">
+  </p>
