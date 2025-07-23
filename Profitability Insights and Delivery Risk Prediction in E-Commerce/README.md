@@ -55,6 +55,10 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - As expected, on average, higher order quantities generate more profit. The visual seemingly shows a linear relationship between the two variables, in most categories.
     - Profit margins are seemingly unaffected by order quantities, in some cases having a negative impact on profit margin.
 
+<p align="center">
+  <img src="Data Visualizations/Top 5 Profitable_Profit_Quantity.png" alt="Profits by Order Quantity for Top 5 most Profitable Categories" width="800", height = "600",style="display inline-block;">
+  </p>
+
 ### Late delivery risks
 
 - Shipping Modes
