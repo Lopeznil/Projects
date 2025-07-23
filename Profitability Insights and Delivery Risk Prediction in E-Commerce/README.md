@@ -32,7 +32,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - Although products related to fishing has the highest sales, its average profit margin is only 10.91%, indicating potential margin leakage. In contrast, products related to Golf have a significantly smaller sales volume but delivers a margin of 17.46%.
 
 <p align="center">
-  <img src="Data%20Visualizations/Sales_Profits.png" alt="Sales vs Profits organized by category" width="800", height = "600">
+  <img src="Data%20Visualizations/Sales_Profits.png" alt="Sales vs Profits organized by category" width="700", height = "525">
 </p>
 <p align="center">
  <img src="Data%20Visualizations/Sales_Profit_margins.png" alt="Sales vs Profit Margins organized by category" width="700", height = "600">
@@ -56,7 +56,10 @@ This structured dataset was analyzed to understand inefficiencies across provisi
     - Profit margins are seemingly unaffected by order quantities, in some cases having a negative impact on profit margin.
 
 <p align="center">
-  <img src="Data Visualizations/Top 5 Profitable_Profit_Quantity.png" alt="Profits by Order Quantity for Top 5 most Profitable Categories" width="800", height = "600",style="display inline-block;">
+  <img src="Data Visualizations/Top 5 Profitable_Profit_Quantity.png" alt="Profits by Order Quantity for Top 5 most Profitable Categories" width="700", height = "525",style="display inline-block;">
+  </p>
+  <p align="center">
+  <img src="Data Visualizations/Top 5 Profitable_Margin_Quantity.pngg" alt="Profit Margins by Order Quantity for Top 5 most Profitable Categories" width="700", height = "525",style="display inline-block;">
   </p>
 
 ### Late delivery risks
