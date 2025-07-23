@@ -59,7 +59,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   <img src="Data Visualizations/Top 5 Profitable_Profit_Quantity.png" alt="Profits by Order Quantity for Top 5 most Profitable Categories" width="700", height = "525",style="display inline-block;">
   </p>
   <p align="center">
-  <img src="Data Visualizations/Top 5 Profitable_Margin_Quantity.pngg" alt="Profit Margins by Order Quantity for Top 5 most Profitable Categories" width="700", height = "525",style="display inline-block;">
+  <img src="Data Visualizations/Top 5 Profitable_Margin_Quantity.png" alt="Profit Margins by Order Quantity for Top 5 most Profitable Categories" width="700", height = "525",style="display inline-block;">
   </p>
 
 ### Late delivery risks
