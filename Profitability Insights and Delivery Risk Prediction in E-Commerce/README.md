@@ -52,7 +52,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
 </p>
 
 - Order Quantity vs Profits
-    - As expected, on average, higher order quantities generate more profit. The scatterplot seemingly shows a linear relationship between the two variables, in most categories.
+    - As expected, on average, higher order quantities generate more profit. The visual seemingly shows a linear relationship between the two variables, in most categories.
     - Profit margins are seemingly unaffected by order quantities, in some cases having a negative impact on profit margin.
 
 ### Late delivery risks
