@@ -21,6 +21,11 @@ It includes 52 structured fields such as product category, customer location, sh
 
 This structured dataset was analyzed to understand inefficiencies across provisioning, production, and distribution processes, enabling insights into delivery delays, profit margins, and customer segmentation. It is particularly suited for advanced analytics and machine learning models to optimize supply chain operations and forecast demand patterns.
 
+<p align="center">
+  <img src="Data Visualizations/Data 1.png" alt="Data Overview" width="300", height = "700", style="display inline-block;"/>
+  <img src="Data Visualizations/Data 2.png" alt="Profits Margins by Shipping Modes" width="300", height = "700", style="display inline-block;"/>
+</p>
+
 ## Analysis and Insights
 
   ![alt text](https://github.com/Lopeznil/Projects/blob/main/Profitability%20Insights%20and%20Delivery%20Risk%20Prediction%20in%20E-Commerce/Data%20Visualizations/Sales_Overview.png "Sales Overview")
