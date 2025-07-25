@@ -79,6 +79,5 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   </p>
   
 ## Suggestions
-
-- Profitability
-    - Categories like 'Golfing' yield higher profit margins (~17%) despite lower sales volume. Prioritizing the promotion of such low-volume, high-margin products can significantly enhance overall profitability.
+### Profitability
+  - Categories like 'Golfing' yield higher profit margins (~17%) despite lower sales volume. Prioritizing the promotion of such low-volume, high-margin products can significantly enhance overall profitability.
