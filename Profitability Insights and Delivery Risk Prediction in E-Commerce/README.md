@@ -78,3 +78,7 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   <img src="Data Visualizations/Delivery risk by scheduled shipment days.png" alt="Late Delivery Risk by scheduled shipping time" width="400", height = "300",style="display inline-block;">
   </p>
   
+## Suggestions
+
+- Profitability
+    - Categories like 'Golfing' yield higher profit margins (~17%) despite lower sales volume. Prioritizing the promotion of such low-volume, high-margin products can significantly enhance overall profitability.
