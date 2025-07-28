@@ -84,3 +84,12 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   - Assess the impact of high-quantity discounts on profitability by analyzing the relationship between per-order quantities and average profit margins across total quantities sold, to identify categories where discount strategies should be reconsidered or reduced.
 ### Late Delivery risks 
   - Examine the reliability of First Class shipping, as the scheduled delivery dates are being consistently underestimated.
+
+## Tools Used
+
+### Power BI
+  - Developed the visualizations presented in this report.
+### Python
+  - Extracted  data of company in CSV format.
+  - Removed uninformative columns and verified data types for consistency.
+
