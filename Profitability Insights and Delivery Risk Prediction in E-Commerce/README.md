@@ -86,10 +86,15 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   - Examine the reliability of First Class shipping, as the scheduled delivery dates are being consistently underestimated.
 
 ## Tools Used
-
 ### Power BI
   - Developed the visualizations presented in this report.
 ### Python
   - Extracted  data of company in CSV format.
   - Removed uninformative columns and verified data types for consistency.
+
+## Assumptions and Caveats
+- The analysis assumes no major disruptions (e.g., COVID, strikes, weather) that could drastically skew shipping or profitability behavior unless explicitly modeled.
+- Dataset is limited to certain Customer geographies (USA, Puerto Rico), insights may not generalize across the business.
+- Some product categories may be too broad or too narrow, which can skew aggregate profitability insights.
+
 
