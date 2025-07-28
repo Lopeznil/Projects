@@ -86,9 +86,9 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   - Examine the reliability of First Class shipping, as the scheduled delivery dates are being consistently underestimated.
 
 ## Tools Used
-### Power BI
+-Power BI
   - Developed the visualizations presented in this report.
-### Python
+- Python
   - Extracted  data of company in CSV format.
   - Removed uninformative columns and verified data types for consistency.
 
