@@ -93,8 +93,11 @@ This structured dataset was analyzed to understand inefficiencies across provisi
   - Removed uninformative columns and verified data types for consistency.
 
 ## Assumptions and Caveats
-- The analysis assumes no major disruptions (e.g., COVID, strikes, weather) that could drastically skew shipping or profitability behavior unless explicitly modeled.
-- Dataset is limited to certain Customer geographies (USA, Puerto Rico), insights may not generalize across the business.
-- Some product categories may be too broad or too narrow, which can skew aggregate profitability insights.
+- No External Disruptions
+  - The analysis assumes no major disruptions (e.g., COVID, strikes, weather) that could drastically skew shipping or profitability behavior unless explicitly modeled.
+- Bias in Data Coverage
+  - Dataset is limited to certain Customer geographies (USA, Puerto Rico), insights may not generalize across the business.
+- Product Category Granularity
+  - Some product categories may be too broad or too narrow, which can skew aggregate profitability insights.
 
 
